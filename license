@@ -1,0 +1,36 @@
+LICENSE
+The software is provided as 'source-avilable'.
+Moterius claims all by law applicable copyright and use rights,
+except explicit listed exceptions.
+
+EXCEPTIONS
+Also readable as 'Usage of the Software', the following use-cases are expressively PERMITTED:
+(1) Forking, download, compilation and decompilation of the software, without changing it.
+(2) Private modification of the software.
+(3) Public modification of the software for bug-fixes.
+(4) Pull requests for any modifications made to the software, as well as Push requests for bug-fixes.
+(5) Usage of the software AS-IS within open-source wich also are non-profit software, under provision of
+    a copyright notice and a copy of this license.
+    (a) In that case, this license only applies to the parts of the project which are the software
+        this License was originally provided for.
+(6) Code within all FILES AND/OR FOLDERS including the character string '-free-', as well as all TXT files,
+    are permitted to be used in other projects (commercial, non-commercial, private and public) under the following conditions:
+    (a) A copyright notice is provided.
+    (b) It has to be indicated if changes were made to the code.
+    (c) No content of TXT-files may be deleted or changed.
+        (I) Adding additional information AFTER the original contents of the file(s) is permitted.
+(7) Usage of the code as examples.
+(8) Generalized code (Delta-time-functions, all functions that only contain one line of code, and all code that can be found
+    online (except on Github) by searching for a function/code-snippet that does something simple) as well as files marked as such
+    with the character string '-un-', or in a folder containing such a string, fall under the UNLICENSE.
+    (Any and all uses of those software snippets is unrestricted, the software copyright falls to the public domain, and no Warranty is given.
+    More information can be found on unlicense.org.)
+
+WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
